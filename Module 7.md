@@ -213,7 +213,7 @@ Algorithm:
 13.End the program by returning 0.
 
 Program:
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 struct Subject
@@ -244,7 +244,7 @@ int main()
     
     return 0;
 }
-
+```
 
 Output:
 
