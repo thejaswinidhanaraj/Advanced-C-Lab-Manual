@@ -39,6 +39,7 @@ int main()
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/13d2cfbc-d4ad-412c-8f86-b91c39131884)
 
 
@@ -78,6 +79,7 @@ int add(struct numbers n)
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/d13fe336-a911-45b9-87e1-245e08f447dc)
 
 Result:
